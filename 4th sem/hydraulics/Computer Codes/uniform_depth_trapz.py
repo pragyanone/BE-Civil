@@ -13,9 +13,9 @@ z = float(input('Enter the side slope: z \n'))
 y = float(input('Enter initial depth of flow \n'))
 
 # Defining Quantities
-A = b * y + z * y ** 2							# Area
-P = b + 2 * y * (1 + z ** 2) ** .5				# Wetted Perimeter
-R = A / P 										# Hydraulic Radius
+A = b * y + z * y ** 2				# Area
+P = b + 2 * y * (1 + z ** 2) ** .5		# Wetted Perimeter
+R = A / P 					# Hydraulic Radius
 LHS = A*R ** (2/3)
 print('AR**(2/3) = ',LHS, '(for initial depth)')
 RHS = (Q * n) / S ** (0.5)
