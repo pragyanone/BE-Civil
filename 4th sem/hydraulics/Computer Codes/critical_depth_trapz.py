@@ -11,8 +11,8 @@ y = float(input('Enter initial depth: y \n'))
 
 # Defining quantifies
 A = b * y + y ** 2 * z		# Area
-T = b + 2 * y * z			# Top width
-g = 9.81					# Acceleration due to gravity
+T = b + 2 * y * z		# Top width
+g = 9.81			# Acceleration due to gravity
 LHS = Q **2 / g
 print('Q ** 2 / g = ', LHS)
 RHS = A ** 3 / T
