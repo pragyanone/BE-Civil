@@ -1,2 +1,5 @@
 # BE-Civil
-TU/IOE/BE/Civil academic files: **reports, notes, etc**.
+TU/IOE/BE/Civil academic files:
+  - lab reports
+  - field reports
+  - notes, etc
