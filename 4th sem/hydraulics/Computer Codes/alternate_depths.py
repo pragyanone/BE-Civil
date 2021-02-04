@@ -1,4 +1,4 @@
-# Given a specific energy, two flow depths are possible; one corresponds to super-critical flow (y1), and anothe to sub-critical flow (y2)
+# Given a specific energy, two flow depths are possible; one corresponds to super-critical flow (y1), and another to sub-critical flow (y2)
 # y1 < yc < y2; where, yc = depth at critical flow
 
 # Receiving Inputs
